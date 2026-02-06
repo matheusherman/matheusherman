@@ -1,10 +1,5 @@
 # 👋 Hi, I’m Matheus Herman
 
-💻 Computer Engineer | Backend Developer  
-📍 Curitiba, Brazil  
-
----
-
 ## 🚀 Technologies & Skills
 
 ### 🛠 Languages
@@ -12,19 +7,6 @@
 
 ### 📦 Tools & Frameworks
 [![My Tools](https://skillicons.dev/icons?i=spring,fastapi,postgres,mysql,git,docker,aws,linux&perline=4)](https://skillicons.dev)
-
-
----
-
-## 🌟 GitHub Highlights
-
-✨ Below are some projects I’ve worked on that represent different skill sets:
-
-- **Aerospace Anomaly Detection** – anomaly detection system for CAD models using ML  
-- **Data Structures** – classic implementations of data structures and algorithms  
-- **Lambda Orchestrator** – serverless orchestrator in Python  
-- **Minimax Checkers AI** – checkers AI using the Minimax algorithm  
-- **Products API** – RESTful API in Rust  
 
 
 <picture align="center">
