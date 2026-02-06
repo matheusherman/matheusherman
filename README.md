@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Matheus Herman
-
 ## 🚀 Technologies & Skills
 
 ### 🛠 Languages
