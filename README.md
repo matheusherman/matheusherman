@@ -1,19 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Matheus Herman
 
-<!--
-**matheusherman/matheusherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineer | Backend Developer  
+📍 Curitiba, Brazil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Skills
+
+### 🛠 Languages
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,rust,ruby&perline=5)](https://skillicons.dev)
+
+### 📦 Tools & Frameworks
+[![My Tools](https://skillicons.dev/icons?i=spring,fastapi,postgres,mysql,git,docker,aws,linux&perline=4)](https://skillicons.dev)
+
+
+---
+
+## 🌟 GitHub Highlights
+
+✨ Below are some projects I’ve worked on that represent different skill sets:
+
+- **Aerospace Anomaly Detection** – anomaly detection system for CAD models using ML  
+- **Data Structures** – classic implementations of data structures and algorithms  
+- **Lambda Orchestrator** – serverless orchestrator in Python  
+- **Minimax Checkers AI** – checkers AI using the Minimax algorithm  
+- **Products API** – RESTful API in Rust  
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edulago/Edulago/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edulago/Edulago/output/github-contribution-grid-snake-dark.svg">
